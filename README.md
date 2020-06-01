@@ -1,0 +1,1 @@
+Here i am going to deal with one of the kaggle dataset namely Height and Weight.csv. The dataset contains 10000 records having coloumn Gender,height and weight.My job is to predict the weight based on given hieght and gender.This is bit intresting.
